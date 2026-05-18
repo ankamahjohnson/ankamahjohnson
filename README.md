@@ -10,16 +10,13 @@
 
 ---
 
-### 🚀 About Me
+### 👨🏾‍💻 About Me
 I'm a passionate tech enthusiast from Ghana🇬🇭 currently building my skills through freeCodeCamp and the **One Million Coders** initiative by the Ghana Ministry of Communications, Digital Technology and Innovations.  
 
 This national program is equipping me with world-class digital skills to contribute to Ghana’s growing tech ecosystem and Africa’s digital future.
 
 
-
----
-
-## 👨🏾‍💻 About Me
+*
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
