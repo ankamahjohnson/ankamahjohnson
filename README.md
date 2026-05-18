@@ -74,11 +74,7 @@ Repos Per Language Chart
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankamahjohnson&theme=tokyonight" />
 </p>
-
-
-<p align="center">
-  <img src="https://github.com/ankamahjohnson/ankamahjohnson/blob/output/github-contribution-grid-snake.svg" />
-</p>
+---
 
 
 ### 🌍 My Journey
