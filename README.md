@@ -63,7 +63,7 @@ A GitHub Activity Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankamahjohnson&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+
 Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankamahjohnson&theme=tokyonight" />
@@ -74,7 +74,7 @@ Repos Per Language Chart
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankamahjohnson&theme=tokyonight" />
 </p>
----
+
 
 ### 🌍 My Journey
 <p align="center">
