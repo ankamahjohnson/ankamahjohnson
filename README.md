@@ -65,6 +65,14 @@ Building skills, contributing to the community, and preparing to drive innovatio
 
 **Currently building my skills through freeCodeCamp and the **One Million Coders** initiative by the Ghana Ministry of Communications, Digital Technology and Innovations.** 🇬🇭
 
+<p align="center">
+  🎓 &nbsp;Participant — <b>Ghana 1Million Coders</b> initiative by the Ministry of Communications, Digital Technology & Innovations
+  <br/><br/>
+  📚 &nbsp;Sharpening fundamentals through <b>freeCodeCamp</b>
+  <br/><br/>
+  🚀 &nbsp;On a mission to represent Ghana in the global tech space
+</p>
+
 ---
 
 ### 📫 Connect With Me
