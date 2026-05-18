@@ -13,14 +13,10 @@
 ### 👨🏾‍💻 About Me
 I'm a passionate Self-taught frontend developer from Ghana🇬🇭 on a mission to to solve real world problems. Currently building my skills through freeCodeCamp and the **One Million Coders** initiative by the Ghana Ministry of Communications, Digital Technology and Innovations.  
 
-This national program is equipping me with world-class digital skills to contribute to Ghana’s growing tech ecosystem and Africa’s digital future.
-
-
 
 
 <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
- 🌱 &nbsp;Self-taught frontend developer on a mission to to solve real world problems
 
 🏗️ &nbsp;Building real-world projects with **HTML, CSS, JavaScript and React** as my current technical foundation
 
