@@ -31,14 +31,14 @@ I am a self-taught Frontend Developer based in Accra, Ghana, passionate about bu
 <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-🏗️ &nbsp;Building real-world projects with **HTML, CSS, JavaScript and React** as my current technical foundation
+⌬ &nbsp;Building real-world projects with **HTML, CSS, JavaScript and React** as my current technical foundation
 
-👷‍♂️ &nbsp;Currently Learning **full-stack development** to level up from frontend to solve real world problems
+⌬ &nbsp;Currently Learning **full-stack development** to level up from frontend to solve real world problems
 
-💡 &nbsp;Believer in learning by building — every project is a step forward
+⌬ &nbsp;Believer in learning by building — every project is a step forward
 
 
-📬 &nbsp;Open to **frontend developer roles and collaborations**
+⌬ &nbsp;Open to **frontend developer roles and collaborations**
 
 <br/>
 
