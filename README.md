@@ -1,12 +1,25 @@
 # ankamahjohnson
-<div align="center">
-  <img src="https://img.shields.io/badge/One%20Million%20Coders-Participant-brightgreen?style=for-the-badge&logo=flag-ghana" alt="One Million Coders" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-red?style=for-the-badge" alt="Ghana" />
-</div>
+<h1 align="center">Hi there, I'm Ankamah Johnson 👋🏾</h1>
 
-<h1 align="center">Hi there, I'm Ankamah Johnson 👋🏿</h1>
+<p align="center">
+  <b>Frontend Developer</b> &nbsp;|&nbsp; Accra, Ghana 🇬🇭
+</p>
 
-<h3 align="center">Frontend Software Developer </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React+%26+Full+Stack;Building+one+project+at+a+time..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/One%20Million%20Coders-Participant-brightgreen?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/freeCodeCamp-Learner-red?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Self-taught. Consistent. Building toward full-stack.</i>
+</p>
 
 ---
 
