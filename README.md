@@ -11,7 +11,7 @@
 ---
 
 ### 👨🏾‍💻 About Me
-I'm a passionate tech enthusiast from Ghana🇬🇭 currently building my skills through freeCodeCamp and the **One Million Coders** initiative by the Ghana Ministry of Communications, Digital Technology and Innovations.  
+I'm a passionate Self-taught frontend developer from Ghana🇬🇭 on a mission to to solve real world problems. Currently building my skills through freeCodeCamp and the **One Million Coders** initiative by the Ghana Ministry of Communications, Digital Technology and Innovations.  
 
 This national program is equipping me with world-class digital skills to contribute to Ghana’s growing tech ecosystem and Africa’s digital future.
 
