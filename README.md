@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there, I'm Ankamah Johnson 👋🏿</h1>
 
-<h3 align="center">Aspiring Full Stack Software Developer | One Million Coders Participant 🇬🇭</h3>
+<h3 align="center">Aspiring Full Stack Software Developer </h3>
 
 ---
 
@@ -30,6 +30,7 @@ This national program is equipping me with world-class digital skills to contrib
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 **Tools & Frameworks**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 Git • GitHub • React • Node.js/Express • MongoDB • 
 
 ---
