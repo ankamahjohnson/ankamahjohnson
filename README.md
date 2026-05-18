@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there, I'm Ankamah Johnson 👋🏿</h1>
 
-<h3 align="center">Frontend Developer Software Developer </h3>
+<h3 align="center">Frontend Software Developer </h3>
 
 ---
 
