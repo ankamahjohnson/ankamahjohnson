@@ -23,9 +23,9 @@ This national program is equipping me with world-class digital skills to contrib
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-🌱 &nbsp;Self-taught frontend developer on a mission to break into the tech industry
+🌱 &nbsp;Self-taught frontend developer on a mission to to solve real world problems 
 
-🏗️ &nbsp;Currently building real-world projects with **HTML, CSS, JavaScript and React**
+🏗️ &nbsp;Building real-world projects with **HTML, CSS, JavaScript and React** as my current technical foundation
 
 👷‍♂️ &nbsp;Currently Learning **full-stack development** to level up from frontend to solve real world problems
 
