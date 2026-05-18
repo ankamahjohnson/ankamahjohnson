@@ -53,10 +53,9 @@ Building skills, contributing to the community, and preparing to drive innovatio
 ---
 
 ### 📫 Connect With Me
--![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-: [mr.ankamahjohnson@gmail.com]
+-**Email**: [mr.ankamahjohnson@gmail.com]
 - **Instagram**: [linkedin.com/in/yourprofile]
--![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white): [https://twitter.com/yourusername]
+-**Twitter**:[https://twitter.com/yourusername]
 - **Portfolio** (under construction): [link]
 
 ---
