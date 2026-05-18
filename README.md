@@ -55,14 +55,17 @@ Building skills, contributing to the community, and preparing to drive innovatio
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/avi_onali">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/an_johnson_iv">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+
+
 ---
 
 *Made with passion in Ghana* 🇬🇭
