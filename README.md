@@ -50,11 +50,19 @@ Building skills, contributing to the community, and preparing to drive innovatio
 ---
 
 ### 📫 Connect With Me
--**Email**: [mr.ankamahjohnson@gmail.com]
-- **Instagram**: [linkedin.com/in/yourprofile]
--**Twitter**:[https://twitter.com/yourusername]
-- **Portfolio** (under construction): [link]
-
+<p align="center">
+  <a href="mailto:mr.ankamahjohnson@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 ---
 
 *Made with passion in Ghana* 🇬🇭
