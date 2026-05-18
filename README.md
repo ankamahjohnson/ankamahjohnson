@@ -30,7 +30,7 @@ This national program is equipping me with world-class digital skills to contrib
 
 🏗️ &nbsp;Currently building real-world projects with **HTML, CSS, JavaScript and React**
 
-👷‍♂️ &nbsp;Currently Learning **full-stack development** to level up from frontend 
+👷‍♂️ &nbsp;Currently Learning **full-stack development** to level up from frontend to solve real world problems
 
 💡 &nbsp;Believer in learning by building — every project is a step forward
 
