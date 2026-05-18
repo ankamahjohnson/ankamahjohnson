@@ -18,7 +18,7 @@ This national program is equipping me with world-class digital skills to contrib
 
 
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 🌱 &nbsp;Self-taught frontend developer on a mission to to solve real world problems 
 
