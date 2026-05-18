@@ -57,11 +57,19 @@ I am a self-taught Frontend Developer based in Accra, Ghana, passionate about bu
 
 ---
 
-A GitHub Activity Graph
+###A GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankamahjohnson&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+## 📂 Projects
+
+| Project | Description | Tech | Live |
+|---------|-------------|------|------|
+| [Dev Profile Card](https://github.com/ankamahjohnson/dev-profile-card) | Responsive user profile card | HTML, CSS | [Demo](#) |
+| [Blog Post Card](https://github.com/ankamahjohnson/blog-post-card) | Blog article preview card | HTML, CSS | [Demo](#) |
+| [Digital Business Card](https://github.com/ankamahjohnson/digital-business-card) | Personal digital business card | HTML, CSS | [Demo](#) |
 ---
 
 ### 🌍 My Journey
