@@ -31,7 +31,9 @@ This national program is equipping me with world-class digital skills to contrib
 
 **Tools & Frameworks**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-Git • GitHub • React • Node.js/Express • MongoDB • 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+React • Node.js/Express • MongoDB • 
 
 ---
 
