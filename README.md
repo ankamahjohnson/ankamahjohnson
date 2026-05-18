@@ -67,6 +67,21 @@ Building skills, contributing to the community, and preparing to drive innovatio
 
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  💻 Building one commit at a time &nbsp;|&nbsp; 🌍 Accra, Ghana &nbsp;|&nbsp; 🎵 Developer by day, Musician by night
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
 
 *Made with passion in Ghana* 🇬🇭
 
