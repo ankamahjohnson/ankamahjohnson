@@ -76,6 +76,11 @@ Repos Per Language Chart
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/ankamahjohnson/ankamahjohnson/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ### 🌍 My Journey
 <p align="center">
   ✿ &nbsp;Participant — <b>Ghana 1Million Coders</b> initiative by the Ghana Ministry of Communications, Digital Technology & Innovations
