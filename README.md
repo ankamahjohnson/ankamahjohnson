@@ -72,12 +72,7 @@ Building skills, contributing to the community, and preparing to drive innovatio
 </p>
 
 <p align="center">
-  Made with passion in Ghana
+  <i>Made with passion in Ghana</i>
 </p>
 
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
-</p>
-
-*Made with passion in Ghana* 🇬🇭
 
