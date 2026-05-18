@@ -36,8 +36,6 @@ This national program is equipping me with world-class digital skills to contrib
 
 
 
----
-
 ### 🌍 One Million Coders Journey
 Proudly part of Ghana’s ambitious program to train **one million coders**.  
 Building skills, contributing to the community, and preparing to drive innovation across the country.
