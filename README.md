@@ -60,13 +60,8 @@ I am a self-taught Frontend Developer based in Accra, Ghana, passionate about bu
 
 
 ### 🌍 My Journey
-Proudly part of Ghana’s ambitious program to train **one million coders**.  
-Building skills, contributing to the community, and preparing to drive innovation across the country.
-
-**Currently building my skills through freeCodeCamp and the **One Million Coders** initiative by the Ghana Ministry of Communications, Digital Technology and Innovations.** 🇬🇭
-
 <p align="center">
-  🎓 &nbsp;Participant — <b>Ghana 1Million Coders</b> initiative by the Ministry of Communications, Digital Technology & Innovations
+  🎓 &nbsp;Participant — <b>Ghana 1Million Coders</b> initiative by the Ghana Ministry of Communications, Digital Technology & Innovations
   <br/><br/>
   📚 &nbsp;Sharpening fundamentals through <b>freeCodeCamp</b>
   <br/><br/>
