@@ -72,11 +72,7 @@ Building skills, contributing to the community, and preparing to drive innovatio
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  💻 Building one commit at a time &nbsp;|&nbsp; 🌍 Accra, Ghana &nbsp;|&nbsp; 🎵 Developer by day, Musician by night
+  Made with passion in Ghana
 </p>
 
 <p align="center">
