@@ -28,19 +28,15 @@ This national program is equipping me with world-class digital skills to contrib
 
 🌱 &nbsp;Self-taught frontend developer on a mission to break into the tech industry
 
-🏗️ &nbsp;Currently building real-world projects with **HTML, CSS & JavaScript**
+🏗️ &nbsp;Currently building real-world projects with **HTML, CSS, JavaScript and React**
 
-⚛️ &nbsp;Learning **React** to level up from frontend to full-stack development
-
-🎯 &nbsp;Goal: Land a junior frontend role in **Accra, Ghana** and grow into **remote opportunities**
-
-🎵 &nbsp;Music is my other language — developer by discipline, musician by heart
+👷‍♂️ &nbsp;Currently Learning **full-stack development** to level up from frontend 
 
 💡 &nbsp;Believer in learning by building — every project is a step forward
 
 🌍 &nbsp;Part of the **Ghana 1Million Coders** program — proud to represent the growing Ghanaian tech community
 
-📬 &nbsp;Open to **junior roles, internships, and collaborations**
+📬 &nbsp;Open to **frontend developer roles and collaborations**
 
 <br/>
 
