@@ -57,7 +57,7 @@ I am a self-taught Frontend Developer based in Accra, Ghana, passionate about bu
 
 ---
 
-#📊 Charts
+
 A GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankamahjohnson&theme=tokyo-night&hide_border=true" />
