@@ -20,7 +20,7 @@ This national program is equipping me with world-class digital skills to contrib
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🌱 &nbsp;Self-taught frontend developer on a mission to to solve real world problems 
+ 
 
 🏗️ &nbsp;Building real-world projects with **HTML, CSS, JavaScript and React** as my current technical foundation
 
@@ -82,7 +82,7 @@ Building skills, contributing to the community, and preparing to drive innovatio
 </p>
 
 <p align="center">
-  <i>Made with passion in Ghana</i>
+  <i>Made with passion</i>
 </p>
 
 
