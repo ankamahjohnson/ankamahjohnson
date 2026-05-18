@@ -22,6 +22,31 @@ This national program is equipping me with world-class digital skills to contrib
 
 ---
 
+## 👨🏾‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+🌱 &nbsp;Self-taught frontend developer on a mission to break into the tech industry
+
+🏗️ &nbsp;Currently building real-world projects with **HTML, CSS & JavaScript**
+
+⚛️ &nbsp;Learning **React** to level up from frontend to full-stack development
+
+🎯 &nbsp;Goal: Land a junior frontend role in **Accra, Ghana** and grow into **remote opportunities**
+
+🎵 &nbsp;Music is my other language — developer by discipline, musician by heart
+
+💡 &nbsp;Believer in learning by building — every project is a step forward
+
+🌍 &nbsp;Part of the **Ghana 1Million Coders** program — proud to represent the growing Ghanaian tech community
+
+📬 &nbsp;Open to **junior roles, internships, and collaborations**
+
+<br/>
+
+> *"I didn't come from a computer science background. I came from curiosity and consistency."*
+---
+
 ### 🛠️ Skills & Technologies 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
