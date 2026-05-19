@@ -107,7 +107,7 @@ Repos Per Language Chart
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2800,100:f0c040&height=100&section=footer" />
 </p>
 
 <p align="center">
