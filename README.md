@@ -66,7 +66,7 @@ Repos Per Language Chart
 
 
 ### 🌍 My Journey
-<p align="center">
+<p>
   ✿ &nbsp;Participant — <b>Ghana 1Million Coders</b> initiative by the Ghana Ministry of Communications, Digital Technology & Innovations
   <br/><br/>
   ✿ &nbsp;Sharpening fundamentals through <b>freeCodeCamp</b>
