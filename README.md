@@ -21,7 +21,7 @@
 
 ✿ &nbsp;**Creative Problem Solving** —Turning ideas into interactive experiences. Obsessed with clean, modern interfaces and a functional product.
 
-✿ &nbsp;**Design Intuition** — UI-focused frontend developer
+✿ &nbsp;**Design Intuition** — UI-focused frontend developer. I build things that look good and work well
 
 ✿ &nbsp;**Consistency &Curiosity** — I don't wait to be taught. I explore, experiment and figure things out. Currently Learning **full-stack development** to level up from frontend to solve real world problems
 
