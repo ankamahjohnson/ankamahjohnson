@@ -23,7 +23,7 @@
 
 ✿ &nbsp;**Design Intuition** — UI-focused frontend developer. I build things that look good and work well
 
-✿ &nbsp;**Consistency &Curiosity** — I don't wait to be taught. I explore, experiment and figure things out. Currently Learning **full-stack development** to level up from frontend to solve real world problems
+✿ &nbsp;**Consistency & Curiosity** — I don't wait to be taught. I explore, experiment and figure things out. Currently learning **full-stack development** to level up from frontend to solve real world problems
 
 ✿ &nbsp;Open to **frontend developer roles and collaborations**
 
