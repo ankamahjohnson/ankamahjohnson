@@ -70,7 +70,6 @@ Repos Per Language Chart
   <br/><br/>
   ✿ &nbsp;Sharpening fundamentals through <b>freeCodeCamp</b>
   <br/><br/>
-  ✿ &nbsp;On a mission to represent Ghana in the global tech space
 </p>
 
 ---
