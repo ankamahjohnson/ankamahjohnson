@@ -19,12 +19,11 @@
 <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-✿ &nbsp;Building real-world projects with **HTML, CSS, JavaScript and React** as my current technical foundation
+✿ &nbsp;**Creative Problem Solving** —Turning ideas into interactive experiences. Obsessed with clean, modern interfaces and a functional product.
 
-✿ &nbsp;Currently Learning **full-stack development** to level up from frontend to solve real world problems
+✿ &nbsp;**Design Intuition**-UI focused frontend developer
 
-✿ &nbsp;Believer in learning by building — every project is a step forward
-
+✿ &nbsp;**Consistency &Curiosity** — I don't wait to be taught. I explore, experiment and figure things out. Currently Learning **full-stack development** to level up from frontend to solve real world problems
 
 ✿ &nbsp;Open to **frontend developer roles and collaborations**
 
