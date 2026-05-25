@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <i>Self-taught. Consistent. Building toward full-stack.</i>
+  <i>I am a self-taught Frontend Developer based in Accra, Ghana, passionate about building clean, responsive, and user-friendly web interfaces. With a strong foundation in HTML, CSS, JavaScript and React, I am steadily expanding my skills toward full-stack software development.</i>
 </p>
 
 ---
