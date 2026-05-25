@@ -1,5 +1,4 @@
 # ankamahjohnson
-<h1 align="center">Hi there, I'm Ankamah Johnson 👋🏾</h1>
 
 <p align="center">
   <b>Frontend Developer</b> &nbsp;|&nbsp; Accra, Ghana 🇬🇭
