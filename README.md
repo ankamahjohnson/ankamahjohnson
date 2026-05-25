@@ -15,12 +15,7 @@
 </p>
 
 ---
-
-### 👨🏾‍💻 About Me
-I am a self-taught Frontend Developer based in Accra, Ghana, passionate about building clean, responsive, and user-friendly web interfaces. With a strong foundation in HTML, CSS, JavaScript and React, I am steadily expanding my skills toward full-stack software development. 
-
-
-
+ 
 <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
