@@ -58,7 +58,7 @@ Profile Summary Card
 
 
 Repos Per Language Chart
-<<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankamahjohnson&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" />
 </p>
 
