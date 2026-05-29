@@ -59,7 +59,8 @@ Profile Summary Card
 
 Repos Per Language Chart
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankamahjohnson&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankamahjohnson&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankamahjohnson&theme=tokyonight" width="48%" />
 </p>
 
 
