@@ -25,7 +25,7 @@
 
 ✿ &nbsp;**Consistency & Curiosity** — Always building. Always learning. I explore, experiment and figure things out. Currently expanding into **full-stack development** to solve bigger problems.
 
-✿ &nbsp;Open to **frontend developer roles and collaborations**
+✿ &nbsp;Open to **frontend role collaborations**
 
 <br/>
 
@@ -74,7 +74,8 @@ Repos Per Language Chart
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
+✿ &nbsp;Open to **frontend developer roles and collaborations**
 <p align="center">
   <a href="mailto:mr.ankamahjohnson@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
