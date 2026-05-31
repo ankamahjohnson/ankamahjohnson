@@ -96,7 +96,7 @@ Repos Per Language Chart
 </p>
 
 <p align="center">
-  <i>Made with passion<br>ⓔ 2026, Ankamah Johnson</br></i>
+  <i>Made with passion<br>ⓔ 2026 Ankamah Johnson</br></i>
 </p>
 
 
