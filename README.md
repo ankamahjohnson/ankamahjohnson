@@ -64,7 +64,7 @@ Repos Per Language Chart
 
 
 
-### 🌍 My Journey
+## 🌍 My Journey
 <p>
   ✿ &nbsp;Participant — <b>Ghana 1Million Coders</b> initiative by the Ghana Ministry of Communications, Digital Technology & Innovations
   <br/><br/>
